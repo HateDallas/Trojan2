@@ -2,3 +2,4 @@ models\User.class
 config\ConfigReader.class
 core\BaseTest.class
 tests\LoginTest.class
+tests\NewsTest.class
