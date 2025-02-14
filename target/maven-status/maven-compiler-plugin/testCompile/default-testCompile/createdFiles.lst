@@ -1,5 +1,7 @@
 models\User.class
 config\ConfigReader.class
 core\BaseTest.class
+ForumTest.class
 tests\LoginTest.class
 tests\NewsTest.class
+
